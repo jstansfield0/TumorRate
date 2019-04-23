@@ -1,0 +1,11 @@
+Package: TumorRate
+Title: Performs chi-squared test from Peto 1974 on carcinogen studies
+Version: 0.0.0.9000
+Authors@R: person("John", "Stansfield", email = "stansfieldjc@vcu.edu", role = c("aut", "cre"))
+Description: Provides a function to perform the chi-squared test for carcinogen studies
+    as described in Peto 1974. 
+Depends: R (>= 3.5.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
